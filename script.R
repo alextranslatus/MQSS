@@ -1,4 +1,4 @@
-load("IE0243AN_donnees_anonymes.RData")
+load("data/IE0243AN_donnees_anonymes.RData")
 
 labels_table <- data.frame(
   variable = names(data),
@@ -9,7 +9,5 @@ labels_table <- data.frame(
 labels_table <- subset(labels_table, !is.na(label))
 
 labels_table
-
-
 
 table(data$GROUP1, useNA = "always")
