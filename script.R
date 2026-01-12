@@ -11,4 +11,5 @@ labels_table <- subset(labels_table, !is.na(label))
 labels_table
 
 
+
 table(data$GROUP1, useNA = "always")
