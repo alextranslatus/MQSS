@@ -1,0 +1,54 @@
+variable;label
+ID;Identifiant d'ego
+GROUP1;Statut d'ego par rapport à la migration en 5 positions
+GROUP1CA;Statut du conjoint actuel d'ego par rapport à la migration en 5 positions
+SEXEE;Sexe de l'enquêté
+SITUAE;Situation professionnelle de l'enquêté
+P_NSTPTC;Travail à temps complet / temps partiel NON SALARIES
+P_SATPTC;Travail à temps complet / temps partiel SALARIES
+F_DIP;Diplôme le plus élevé obtenu par EGO
+INATUE;Nationalité actuelle française, UE27 ou étrangère
+A_PERMIS;Possession du permis de conduire
+S_ETAT;Etat de santé subjectif
+TYPM5_MEN;Type de ménage au sens du TCM (budget commun avec ego)
+MATRIE;Etat matrimonial légal de l'enquêté
+T_DIPLOM;Diplôme le plus élevé détenu par la mère ou la femme qui a élevé l'enquêté
+T_DIPLOP;Diplôme le plus élevé détenu par le père ou l'homme qui a élevé l'enquêté
+D_DISCRI;Traitements inégalitaires ou discriminations depuis 5 ans
+D_PQDISC_A;Traitements inégalitaires ou discriminations dus à l'âge
+D_PQDISC_B;Traitements inégalitaires ou discriminations dus au sexe
+D_PQDISC_C;Traitements inégalitaires ou discriminations dus à l'état de santé ou à un handicap
+D_PQDISC_D;Traitements inégalitaires ou discriminations dus à la couleur de peau
+D_PQDISC_E;Traitements inégalitaires ou discriminations dus aux origines ou à la nationalité
+D_PQDISC_F;Traitements inégalitaires ou discriminations dus au lieu où l'on vit , à la réputation du quartier
+D_PQDISC_G;Traitements inégalitaires ou discriminations dus à l'accent ou la façon de parler
+D_PQDISC_H;Traitements inégalitaires ou discriminations dus à la situation familiale (célibataire, divorcé(e), enfants en bas âge...)
+D_PQDISC_I;Traitements inégalitaires ou discriminations dus à l'orientation sexuelle
+D_PQDISC_J;Traitements inégalitaires ou discriminations dus à la religion
+D_PQDISC_K;Traitements inégalitaires ou discriminations dus à la façon de s'habiller
+D_PQDISC_L;Traitements inégalitaires ou discriminations dus à d'autres raisons
+D_PQDISC_FLAG;Indicateur de non réponse sur les causes des traitements inégalitaires ou des discriminations
+L_AUJC;Compréhension actuelle du français
+L_AUJE;Aptitude actuelle à écrire le français
+L_AUJL;Aptitude actuelle à lire le français
+L_AUJP;Aptitude actuelle à parler le français
+FRAUJ;Niveau de français aujourd'hui
+P_DRECH;Refus injuste d'un emploi au cours des 5 dernières années
+P_DISPQ_A;Sexe cité comme cause des licenciements, de refus d'emploi ou de promotion injustes
+P_DISPQ_B;Etat de santé cité comme cause des licenciements, de refus d'emploi ou de promotion injustes
+P_DISPQ_C;Couleur de peau citée comme cause des licenciements, de refus d'emploi ou de promotion injustes
+P_DISPQ_D;Origines citées comme cause des licenciements, de refus d'emploi ou de promotion injustes
+P_DISPQ_E;Façon de s'habiller cité comme cause des licenciements, de refus d'emploi ou de promotion injustes
+P_DISPQ_F;Âge cité comme cause des licenciements, de refus d'emploi ou de promotion injustes
+P_DISPQ_G;Autre cause des licenciements, de refus d'emploi ou de promotion injustes
+P_DISPQ_FLAG;Cause des licenciements, de refus d'emploi ou de promotion injustes, indicateur de non réponse
+T_VIOLEN;Violences graves subies par l'enquêté durant sa jeunesse, avant ses 18 ans
+demarches;Démarches effectuées auprès d'une association, d'un syndicat, d'un commissariat ou de la Halde
+cs_act_6T;Profession actuelle d'ego (sur 1 position): issues du recodage de CS_ACT
+cs_mere_6T;Profession de la mère sur 2 positions: issues du codage de T_PROFM
+cs_pere_6T;Profession du père sur 2 positions: issues du codage de T_PROFP
+regionnaisp2_11t;Pays ou DOM-TOM de naissance du père d‚Äôego ou de l‚Äôhomme qui l‚Äôa élevé - recodé
+regionnaise2_11t;Pays ou département de naissance d‚Äôego - recodé
+regionnaism2_11t;Pays ou DOM-TOM de naissance de la mère d‚Äôego ou de la femme qui l‚Äôa élevé - recodé
+age_tranches;Age en tranches - recodé
+POIDSI;Poids de l'enquêté
